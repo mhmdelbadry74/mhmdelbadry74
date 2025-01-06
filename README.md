@@ -84,3 +84,11 @@
 </div>
 
 ###
+
+<div align="left">
+  <h3>📊 GitHub Activity</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedelbadry&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedelbadry&theme=radical" alt="GitHub Streak" height="150" />
+</div>
+
+###
